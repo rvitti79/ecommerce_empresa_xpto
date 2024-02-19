@@ -5,8 +5,8 @@ Vamos criar um **e-commerce** para *empresa xpto*
 
 ## Fucionalidades:
 
-Chekout tela de produto, catalogo, home com banner
+**_Chekout **tela de produto catalogo, home com banner__**
 
 ###### Melhorias do projeto:
 
-melhoria 1 melhoria 2, melhoria 3
+__Melhoria 1__,  _melhoria 2_, __*melhoria 3*__
