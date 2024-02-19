@@ -47,5 +47,10 @@ __Melhoria 1__,  _melhoria 2_, __*melhoria 3*__
 [![Logo do Python2](https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg)](https://www.python.org/)
 
 
+## Código da função soma
+```javascript
+function soma(a, b){
+    return a + b;
 
-  
+}
+```
