@@ -10,3 +10,11 @@ Vamos criar um **e-commerce** para *empresa xpto*
 ###### Melhorias do projeto:
 
 __Melhoria 1__,  _melhoria 2_, __*melhoria 3*__
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
+* MYSQL
