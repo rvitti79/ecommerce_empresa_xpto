@@ -3,7 +3,7 @@
 Vamos criar um e-commerce parra empresa xpto
 
 
-## Fucionaliidades:
+## Fucionalidades:
 
 Chekout tela de produto, catalogo, home com banner
 
