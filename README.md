@@ -7,3 +7,6 @@ Vamos criar um e-commerce parra empresa xpto
 
 Chekout tela de produto, catalogo, home com banner
 
+###### Melhorias do projeto:
+
+melhoria 1 melhoria 2, melhoria 3
