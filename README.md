@@ -30,3 +30,9 @@ __Melhoria 1__,  _melhoria 2_, __*melhoria 3*__
 
  #### Imagem Local
   ![Logo Python](img/py.JPG)
+
+
+  #### Imagem Externa
+  ![Logo do PHP](https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg)
+  
+  
