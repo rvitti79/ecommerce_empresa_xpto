@@ -44,6 +44,8 @@ __Melhoria 1__,  _melhoria 2_, __*melhoria 3*__
 
 [https://github.com/rvitti79/ecommerce_empresa_xpto](https://github.com/rvitti79/ecommerce_empresa_xpto)
 
+[![py.JPG](https://www.python.org/)]
+
 
 
   
