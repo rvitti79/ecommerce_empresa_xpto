@@ -44,7 +44,7 @@ __Melhoria 1__,  _melhoria 2_, __*melhoria 3*__
 
 [https://github.com/rvitti79/ecommerce_empresa_xpto](https://github.com/rvitti79/ecommerce_empresa_xpto)
 
-[![Logo do Python2](https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg)]
+[![Logo do Python2](https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg)](https://www.python.org/)
 
 
 
