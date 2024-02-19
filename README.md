@@ -1,4 +1,9 @@
-# ecommerce_empresa_xpto
-Aula GitHub - Este é o site da e-commerce xpt feito em PHP e MySQL
+# E-commerce empresa xpto
 
-# Teste
+Vamos criar um e-commerce parra empresa xpto
+
+
+## Fucionaliidades:
+
+Chekout tela de produto, catalogo, home com banner
+
